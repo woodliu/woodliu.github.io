@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Charlie.Liu"
-  avatar           : #"/assets/images/bio-photo.png"
+  avatar           : "/assets/images/bio-photo.png"
   bio              : "A Technical person"
   location         : "shanghai(CHINA)"
   email            : liuchang268@live.com
